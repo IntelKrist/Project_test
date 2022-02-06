@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_cat1">Кот</string>
+    <string name="action_cat2">Кошка</string>
+    <string name="action_cat3">Котёнок</string>
+</resources>
