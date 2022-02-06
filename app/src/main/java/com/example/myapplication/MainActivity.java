@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 infoTextView.setText("Вы выбрали кошку!");
                 return true;
             case R.id.action_cat3:
-                infoTextView.setText("Вы выбрали котёнка!");
+                infoTextView.setText("Вы смогли выбрать котенка!");
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
